@@ -22,4 +22,11 @@ we need to install visio professional for building UML diagrams, for UTD student
 
 ### Result
 #### Use Case diagram:
-![]()
+![](https://github.com/pratheepknadar/Food-delivery-management-system/blob/main/Images/Question%201.1.png)
+#### Major Classes, Attributes & operations:
+![](https://github.com/pratheepknadar/Food-delivery-management-system/blob/main/Images/Question2.png)
+#### Class Diagram:
+![](https://github.com/pratheepknadar/Food-delivery-management-system/blob/main/Images/Question3.png)
+#### Sequence diagram for given Use case description:
+![](https://github.com/pratheepknadar/Food-delivery-management-system/blob/main/Images/Q1.png)
+![](https://github.com/pratheepknadar/Food-delivery-management-system/blob/main/Images/Question4.png)
