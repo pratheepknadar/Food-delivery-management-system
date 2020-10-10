@@ -16,7 +16,7 @@ we need to install visio professional for building UML diagrams, for UTD student
 
 ### Approach
 * First read through the company's description to understand what it does and whom are they interacting with.
-* Identify actors(eg: driver, customer) and use cases (eg: placing order, etc), get relation between usecase and build Use case diagram. check out this [Link](https://www.uml-diagrams.org/use-case-diagrams.html) to understand beter.
+* Identify actors(eg: driver, customer) and use cases (eg: placing order, etc), get relation between usecase and build Use case diagram. check out this [Link](https://www.uml-diagrams.org/use-case-diagrams.html).
 * Identify major classes and build class diagram. for reference check this [link](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
 * finally, with the help of usecase description build sequence diagram.
 
